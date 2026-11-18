@@ -1,4 +1,4 @@
-# Hi, ich bin [Dein Name]
+# Hi, ich bin Gabrijela.
 
 Ich studiere Medieninformatik und interessiere mich für Softwareentwicklung,
 Datenanalyse und die technischen Grundlagen hinter Anwendungen.
