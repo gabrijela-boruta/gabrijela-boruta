@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, ich bin [Dein Name]
 
-<!--
-**gabrijela-boruta/gabrijela-boruta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ich studiere Medieninformatik und interessiere mich für Softwareentwicklung,
+Datenanalyse und die technischen Grundlagen hinter Anwendungen.
 
-Here are some ideas to get you started:
+## Womit ich aktuell arbeite
+- Java im Fach Software Engineering
+- Python im Bereich Data Analytics
+- C/C++, SQL sowie HTML, CSS und JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Was mich außerdem interessiert
+Betriebssysteme, Computernetzwerke und das Zusammenspiel von Software
+und Infrastruktur.
+
+Auf diesem Profil dokumentiere ich eigene Projekte, vertiefe Inhalte aus
+meinem Studium und halte fest, was ich dabei lerne.
+
+## Mein Ziel
+Meine Kenntnisse durch praktische Projekte ausbauen und als Werkstudent
+Erfahrung in der Softwareentwicklung sammeln.
